@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1424"/>
+      <stop offset="100%" stop-color="#070b14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="22%" r="60%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect width="1200" height="750" fill="url(#glow)"/>
+  <g stroke="#22d3ee" stroke-opacity="0.12" stroke-width="1.5">
+    <line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="94" x2="1200" y2="94"/><line x1="0" y1="188" x2="1200" y2="188"/><line x1="0" y1="282" x2="1200" y2="282"/><line x1="0" y1="376" x2="1200" y2="376"/><line x1="0" y1="470" x2="1200" y2="470"/><line x1="0" y1="564" x2="1200" y2="564"/><line x1="0" y1="658" x2="1200" y2="658"/>
+  </g>
+  <circle cx="980" cy="180" r="120" fill="none" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="980" cy="180" r="78" fill="none" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="2"/>
+  <rect x="78" y="118" width="58" height="6" rx="3" fill="#22d3ee"/>
+  <text x="80" y="168" fill="#22d3ee" font-family="Geist, Segoe UI, Arial, sans-serif"
+    font-size="26" font-weight="700" letter-spacing="4">SELLER OPERATIONS</text>
+  <text fill="#f3f7fb" font-family="Geist, Segoe UI, Arial, sans-serif"
+    font-size="84" font-weight="700" letter-spacing="-1"><tspan x="80" y="360">SellerOS</tspan></text>
+  <text x="80" y="660" fill="#8aa0b6" font-family="Geist, Segoe UI, Arial, sans-serif"
+    font-size="30" font-weight="500">Prathamesh Berad · Product</text>
+</svg>
